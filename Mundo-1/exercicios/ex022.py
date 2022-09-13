@@ -1,5 +1,4 @@
 nome = str(input('Nome completo: '))
-print(nome.upper())
 print(nome.lower())
 size = nome.replace(' ', '')
 print(len(size))
